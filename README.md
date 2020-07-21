@@ -40,9 +40,9 @@ It uses a graphical user interface (GUI) very similar to the programming languag
 
 2. Design  
 		 
- ![first screen][/first_screen.png]    
+ ![first screen](/first_screen.png)    
 
- ![second screen][/second_screen.png]  
+ ![second screen](/second_screen.png)  
 
 We set up the acceleration and deceleration buttons for each side.
 If bluetooth is connected, we can select a device in List_Viewer screen.
