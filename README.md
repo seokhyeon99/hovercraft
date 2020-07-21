@@ -39,9 +39,10 @@ Thunkable is a web application integrated development environment.
 It uses a graphical user interface (GUI) very similar to the programming languages Scratch, which allows users to drag and drop visual objects to create an application that can run on mobile devices.
 
 2. Design  
-		 
+  - first screen  
  ![first screen](/first_screen.png)    
-
+ 
+  - second screen  
  ![second screen](/second_screen.png)  
 
 We set up the acceleration and deceleration buttons for each side.
